@@ -1,0 +1,6 @@
+LLaDA-V/
+Lumina-DiMOO/
+ckpt/
+outputs/
+__pycache__/
+*.pyc
